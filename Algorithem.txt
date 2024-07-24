@@ -1,0 +1,16 @@
+Step-1:Start.
+Step-2:Input the points already given in the program.
+Step-3:We sort all points according to x coordinates.
+Step-4:Now, divide all points in two halves.
+Step-5:Recursively find the smallest distances in both     
+        subarrays.
+Step-6:Take the minimum of two smallest distances. Let the   
+        minimum be dmin. 
+Step-7:Create an array strip[] that stores all points which         
+        are at most d distance away from the middle line         
+        dividing the two sets.
+Step-8:Find the smallest distance in strip[]. 
+Step-9:Return the minimum of dmin and the smallest distance 
+       calculated in above Step-7 and return the respective 
+   pair of points.
+Step-10:Stop.
