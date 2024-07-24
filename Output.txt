@@ -1,0 +1,5 @@
+Output:
+
+The closest distance is 1.41421
+
+Closest pair of points are (0,0) and (1,1)
