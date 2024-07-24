@@ -1,0 +1,3 @@
+Closet Pair Problem: Given an array of n points in the plane, and the problem is to find out the closest pair of points in the array. 
+The Pelosest pair problem for points in the Euclidean plane was among the first geometric problems that were treated at the origins of the systematic study of the computational complexity of geometric algorithms. 
+Implement the problem using Divide and Conquer Methods.
